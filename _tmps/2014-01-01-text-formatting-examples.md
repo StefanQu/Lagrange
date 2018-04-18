@@ -2,7 +2,7 @@
 layout: post
 title: "Text Formatting Examples"
 author: "Paul Le"
-categories: journal
+categories: 生活
 tags: [documentation,sample]
 image: cards.jpg
 ---
