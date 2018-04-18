@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: 联系方式
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+您可以在这里联系到我 [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), 或者 [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)，我的邮箱是qcqdeapp@163.com
